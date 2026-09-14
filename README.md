@@ -39,7 +39,7 @@ $ ls -la ~/repos
 
 <br>
 
-### 🚀 what I'm working on
+### 🚀 what I'm working on:
 
 - Solving DSA problems consistently — the goal is fluency, not just completion
 - Slowly assembling a portfolio of small, real projects instead of tutorials I never finish
