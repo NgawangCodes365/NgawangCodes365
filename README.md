@@ -20,7 +20,6 @@ $ ls -la ~/repos
 
 **[LeetCode](https://github.com/NgawangCodes365/LeetCode)** - Solving Every LeetCode problem there is .
 <br>
-**[CS50_LISTS](https://github.com/NgawangCodes365/Python-CS50)** — Just the beginning.
 
 <br>
 
@@ -41,10 +40,10 @@ $ ls -la ~/repos
 
 ### 🚀 what I'm working on:
 
-- Solving DSA problems consistently — the goal is fluency, not just completion
-- Slowly assembling a portfolio of small, real projects instead of tutorials I never finish
-- Learning HTML, CSS and JS alongside backend fundamentals.
-- What if i could create something that can actually think and alternate with me?
+- FlowForge
+- APISentinel
+- CampusPulse
+- A system that can outlast a couple of centuries.
 <br>
 
 `contact:` [LinkedIn](https://www.linkedin.com/in/ngawang-sherpa-5a911b379/) · [ngawangt.sherpa777@gmail.com](mailto:ngawangt.sherpa777@gmail.com)
